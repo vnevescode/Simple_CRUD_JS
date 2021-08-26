@@ -1,0 +1,83 @@
+
+
+.bodyStyle {
+    background-color: #512D6D; 
+    color: #EEEEEE;
+}
+
+.centerTitle{
+    background-color: #00C1D4;
+    margin: 0;
+    padding: 0;
+    height: 8vh;
+}
+
+.centerTitle h2{
+    text-align: center;
+    margin: 2%;
+    text-shadow: 0 0 20px #F8485E;
+}
+
+
+.container{
+    margin-top: 5%;
+    padding: 0 !important;
+    border: 1px solid #EEEEEE;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;    
+
+}
+
+.inputText{
+    margin-top: 10px !important;
+}
+
+#addForm{
+    display: flex;
+}
+
+#add-name{
+    margin-right: 10px;
+}
+
+#addButton{
+    
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 5%;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#spoiler{
+    margin-top: 2%;
+}
+
+#saveEdit{
+    display: flex;
+}
+
+#edit-name{
+    margin-right: 10px;
+}
+
+#saveButton{
+    
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 5%;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#counter{
+    text-align: center;
+    margin: 2%;
+}
